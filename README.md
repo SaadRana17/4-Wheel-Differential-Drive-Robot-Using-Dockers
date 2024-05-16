@@ -22,11 +22,17 @@ docker run -it -p 6080:80 -v ~/development/ros-docker-tutorials --name foxy_vnc 
 
 ```
 Output will look like this 
-File image 
+![](https://github.com/SaadRana17/4-Wheel-Differential-Drive-Robot-Using-Dockers/blob/main/t1.jpeg)
 
 
 Now open browser and connect to localhost --> localhost:6080
+Output will look like this 
+![](https://github.com/SaadRana17/4-Wheel-Differential-Drive-Robot-Using-Dockers/blob/main/t2.jpeg)
 
+## Congratulations!
+### You are now running Ubuntu 20.04 with ROS2 foxy installed in it.
+
+Now open the terminal in your browser ubuntu
 
 Create ws_mobile directory
 ```
