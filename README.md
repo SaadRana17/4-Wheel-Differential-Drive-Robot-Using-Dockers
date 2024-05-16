@@ -81,7 +81,7 @@ source /opt/ros/foxy/setup.bash
 
 Sourcing the workspace
 ```
-source ~/ws_mobile/4-Wheel-Differential-Drive-Robot/install/setup.bash
+source ~/Desktop/ws_mobile/4-Wheel-Differential-Drive-Robot/install/setup.bash
 
 ```
 
