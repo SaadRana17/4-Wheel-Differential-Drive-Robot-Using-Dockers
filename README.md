@@ -12,13 +12,13 @@ https://docs.docker.com/desktop/
 Once docker is installed, pull the ros2 image file. For that open the terminal
 
 ```
-docker pull tiryoh/ros2-desktop-vnc:foxy
+docker pull aaids2024/ros2-desktop-vnc:foxy
 
 ```
 
 Run the Docker image
 ```
-docker run -it -p 6080:80 -v ~/development/ros-docker-tutorials --name foxy_vnc --security-opt seccomp=unconfined --shm-size=512m tiryoh/ros2-desktop-vnc:foxy
+docker run -it -p 6080:80 -v ~/development/ros-docker-tutorials --name foxy_vnc --security-opt seccomp=unconfined --shm-size=512m aaids2024/ros2-desktop-vnc:foxy
 
 ```
 Output will look like this 
