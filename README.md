@@ -122,4 +122,4 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ![](https://github.com/SaadRana17/4-Wheel-Differential-Drive-Robot/blob/main/4_ws.gif)
 
 
-## If you want to learn more let's connect --> https://www.linkedin.com/in/rana-muhammad-saad/
+## If you have any queries contact me @ --> rana_mohammad_saad@hotmail.com
